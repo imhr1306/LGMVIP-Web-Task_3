@@ -1,4 +1,4 @@
-# LGMVIP-Web-Task_3.github.io
+# LGMVIP-Web-Task_3
 
 ## Task 3
 
@@ -16,7 +16,7 @@ JAVASCRIPT
 
 Steps to use :-
 
-Project is live [Here]()
+Project is live [Here](https://imhr1306.github.io/LGMVIP-Web-Task_3/)
 
       or
 Download or clone the repository
